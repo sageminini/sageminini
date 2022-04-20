@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sageminini
+- 👀 I’m interested in data analysis and visualization
+- 🌱 I’m currently learning python programming language for data analysis
+- 💞️ I’m looking to collaborate on data analysis and visualizations
+- 📫 How to reach me mininiodimabo@gmail.com
